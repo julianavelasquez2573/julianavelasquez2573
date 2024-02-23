@@ -22,6 +22,7 @@
 - ⚡ Fun fact: Me gustan escuchar y ver anime.
 <br>
 
+<br>
 
 
 <h2 align="center">Conéctate conmigo </h2>
@@ -32,11 +33,11 @@
 	<a href="https://www.linkedin.com/in/juliana-carvajal-43948327b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/dev_velasquez1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-<br><br>
-
-<h1 align="center">🛠️ Mis Habilidades</h1>
 <br>
-<h1 align="center">Lenguajes de programación</h1>
+
+<h2 align="center">🛠️ Mis Habilidades</h2>
+<br>
+<h2 align="center">Lenguajes de programación</h2>
 
 
 <p align="center"> 
@@ -55,7 +56,7 @@
 </p>
 <br>
 <br>
-<h1 align="center">Desarrollo Frontend</h1>
+<h2 align="center">Desarrollo Frontend</h2>
 
 <p align="center"> 
   &emsp; 
@@ -77,7 +78,7 @@
 </p>
 
 <br>
-<h1 align="center">Software y herramientas</h1>
+<h2 align="center">Software y herramientas</h2>
  
 <p align="center">
   &emsp;
@@ -103,7 +104,7 @@
 </p>
 
 <br>
-<h1 align="center">Editores</h1>
+<h2 align="center">Editores</h2>
  
 <p align="center">
   &emsp;
@@ -113,7 +114,7 @@
 </p>
 
 
- <h1 align="center">Sistemas Operativos</h1>
+ <h2 align="center">Sistemas Operativos</h2>
  
 <p align="center">
   &emsp;
