@@ -24,7 +24,7 @@
 
 
 
-<h1 align="center">Conéctate conmigo </h1>
+<h2 align="center">Conéctate conmigo </h2>
 
 <p align="center">
 	<a href="mailto:julianacar2901@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
