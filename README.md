@@ -33,10 +33,9 @@
 	<a href="https://www.linkedin.com/in/juliana-carvajal-43948327b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/dev_velasquez1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-<br>
 
 <h2 align="center">🛠️ Mis Habilidades</h2>
-<br>
+
 <h2 align="center">Lenguajes de programación</h2>
 
 
@@ -54,8 +53,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-<br>
-<br>
+
 <h2 align="center">Desarrollo Frontend</h2>
 
 <p align="center"> 
@@ -77,7 +75,7 @@
    </a>
 </p>
 
-<br>
+
 <h2 align="center">Software y herramientas</h2>
  
 <p align="center">
@@ -103,7 +101,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Notion-000000?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
-<br>
+
 <h2 align="center">Editores</h2>
  
 <p align="center">
@@ -121,7 +119,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<br> 
+
 <!---	
 	## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 	
